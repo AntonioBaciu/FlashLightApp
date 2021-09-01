@@ -8,7 +8,7 @@ It's purpose might not be extraordinary since most of the phones have this featu
 but as a beginner I learned many things building it. 
 
 # Preview:
-
+![](apk&resources/preview.jpg)
 # What have I learned?
 
 - [x]  How to create a simple application layout
