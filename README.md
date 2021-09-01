@@ -1,4 +1,3 @@
-# FlashLightApp
 # The App:
 
 This is my first **Android** application. It's simple and it performs one task(turns the phone flashlight On or Off). 
